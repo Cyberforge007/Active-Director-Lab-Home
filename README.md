@@ -10,7 +10,7 @@ Through hands-on exploration, the objective is to deepen understanding of govern
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>VMWARE</b>
 
 <h2>Environments Used </h2>
 
