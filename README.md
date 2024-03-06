@@ -3,7 +3,7 @@
 
 
 <h2>Objective</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Through hands-on exploration, the objective is to deepen understanding of governance, risk, and compliance (GRC) principles within the context of Active Directory management. This environment will provide practical experience in designing, deploying, configuring, and managing Active Directory services, user accounts, group policies, and security controls.
 <br />
 
 
