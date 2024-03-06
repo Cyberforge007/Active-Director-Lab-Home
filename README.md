@@ -19,7 +19,7 @@ Through hands-on exploration, the objective is to deepen understanding of govern
 
 <h2>Program walk-through:</h2>
 <p align="LEFT">
-IN PROGRESS<br/>
+#IN PROGRESS<br/>
 
 <!--
  ```diff
