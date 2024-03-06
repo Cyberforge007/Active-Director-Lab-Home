@@ -18,8 +18,8 @@ Through hands-on exploration, the objective is to deepen understanding of govern
 - <b>Server 2019</b>
 
 <h2>Program walk-through:</h2>
-<p align="center">
-IN PROGRESS: <br/>
+<p align="LEFT">
+IN PROGRESS<br/>
 
 <!--
  ```diff
