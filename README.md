@@ -15,10 +15,11 @@ Through hands-on exploration, the objective is to deepen understanding of govern
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
+- <b>Server 2019</b>
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
+"<p align="center">
 Launch the utility: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -45,7 +46,7 @@ Sanitization complete:  <br/>
 <br />
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+</p>"
 
 <!--
  ```diff
